@@ -6,7 +6,7 @@ A modern, local-first application for visualizing and analyzing your bank data. 
 
 ## ✨ Features
 
-### 💼 Financial Management
+### 💼 Financial Management 
 
 - **📊 Unified Dashboard** - Income, expenses, and rolling balance at a glance.
 - **📈 Advanced Analytics** - Interactive trend charts, category breakdowns, and period-over-period comparisons.
